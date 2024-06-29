@@ -14,7 +14,7 @@
 edebilmesi kendini tanıtabilmesi ve öğrenci ile velilerin kurumla ilgili akıllarında oluşan sorulara
 cevap bulabileceği bir tasarım tasarlamak.
 
----
+***
 
 ## TEMA RESİMLERİ
 
@@ -27,7 +27,7 @@ cevap bulabileceği bir tasarım tasarlamak.
 ```bash
   Php , Mysql, Html ,Bootstrap
 ```
-
+___
 ## Özellikler
 
 - Admin Paneli
