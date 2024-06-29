@@ -7,7 +7,9 @@
 
 <h1 align="center">OzelDersWebTasarim-2018-</h1>
 
-
+***
+***
+***
 # Proje Amacı
 
 Özelders veren bir öğretmen ve kurumun daha fazla kitleye hitap
@@ -15,22 +17,25 @@ edebilmesi kendini tanıtabilmesi ve öğrenci ile velilerin kurumla ilgili akı
 cevap bulabileceği bir tasarım tasarlamak.
 
 ***
+***
+***
 
 ## TEMA RESİMLERİ
 
 - [TEMA RESİMLERİ](https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf)
 
-
-<p align="center">
-<a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
-</p>
+***
+***
+***
 
 ## Kullanılan Teknolojiler
 
 ```bash
   Php , Mysql, Html ,Bootstrap
 ```
-___
+***
+***
+***
 ## Özellikler
 
 - Admin Paneli
