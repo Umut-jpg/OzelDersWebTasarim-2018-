@@ -5,6 +5,7 @@
   <a href="https://www.yusaumut.com">YusaUmut.Com</a>
 </p>
 
+<h1 align="center">OzelDersWebTasarim-2018-</h1>
 
 
 # Proje Amacı
@@ -23,7 +24,9 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 ## Kullanılan Teknolojiler
 
-**Php , Mysql, Html ,Bootstrap:** 
+```bash
+  Php , Mysql, Html ,Bootstrap
+```
 
 ## Özellikler
 
