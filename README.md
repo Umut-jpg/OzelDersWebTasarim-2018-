@@ -17,18 +17,18 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 ## TEMA RESİMLERİ
 
- <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
+ <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" width="50" height="50">TEMA RESİMLERİ </a>
 
-```bash
- <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
 
-```
-` <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
-`
-  
 ## Kullanılan Teknolojiler
 
 **Php , Mysql, Html ,Bootstrap:** 
+
+## Özellikler
+
+- Admin Paneli
+- Blog Sayfası
+- Sade Tasarım
 
 
 
