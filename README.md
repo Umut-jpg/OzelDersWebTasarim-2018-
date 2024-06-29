@@ -9,14 +9,12 @@
 
 ***
 ***
-***
 # Proje Amacı
 
 Özelders veren bir öğretmen ve kurumun daha fazla kitleye hitap
 edebilmesi kendini tanıtabilmesi ve öğrenci ile velilerin kurumla ilgili akıllarında oluşan sorulara
 cevap bulabileceği bir tasarım tasarlamak.
 
-***
 ***
 ***
 
@@ -26,14 +24,12 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 ***
 ***
-***
 
 ## Kullanılan Teknolojiler
 
 ```bash
   Php , Mysql, Html ,Bootstrap
 ```
-***
 ***
 ***
 ## Özellikler
