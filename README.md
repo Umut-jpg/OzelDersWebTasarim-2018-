@@ -28,7 +28,7 @@ cevap bulabileceği bir tasarım tasarlamak.
 ## Kullanılan Teknolojiler
 
 ```bash
-  Php , Mysql, Html ,Bootstrap
+  Php , Mysql, Html , Bootstrap, javascript
 ```
 ***
 ***
