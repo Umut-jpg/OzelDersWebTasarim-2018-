@@ -15,13 +15,17 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 
 
-#<p align="center"> TEMA RESİMLERİ</p>
+## TEMA RESİMLERİ
 
 <p align="center">
 <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
 </p>
   
-
+```bash
+  <p align="center">
+<a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
+</p>
+```
 ## Kullanılan Teknolojiler
 
 **Php , Mysql, Html ,Bootstrap:** 
