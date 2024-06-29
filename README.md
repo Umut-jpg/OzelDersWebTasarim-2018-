@@ -20,9 +20,11 @@ cevap bulabileceği bir tasarım tasarlamak.
  
 
 ```bash
-  [Belgelendirme](https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf)
+ <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
+
 ```
-`[Belgelendirme](https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf) ANOTHER_API_KEY`
+` <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
+`
   
 ## Kullanılan Teknolojiler
 
