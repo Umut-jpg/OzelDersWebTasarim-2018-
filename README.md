@@ -18,6 +18,9 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 ## TEMA RESİMLERİ
 
+- [TEMA RESİMLERİ](https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf)
+
+
 <p align="center">
 <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
 </p>
