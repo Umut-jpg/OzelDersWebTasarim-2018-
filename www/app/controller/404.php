@@ -1,0 +1,3 @@
+<?php
+
+echo "SAYFA BULUNUMADI LÜTFEN GİRDİĞİNİZ LİNKİ KONTROL EDİNİZ"; ?>
