@@ -15,10 +15,12 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 
 
-## TEMA RESİMLERİ
+# TEMA RESİMLERİ
 
-#<a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
-
+<p align="center">
+<a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf" >TEMA RESİMLERİ </a>
+</p>
+  
 
 ## Kullanılan Teknolojiler
 
@@ -29,6 +31,7 @@ cevap bulabileceği bir tasarım tasarlamak.
 - Admin Paneli
 - Blog Sayfası
 - Sade Tasarım
+- Kullanıcı Dostu Arayüz
 
 
 
