@@ -7,14 +7,14 @@
 
 <h1 align="center">OzelDersWebTasarim-2018-</h1>
 
-<div style="margin-bottom: 20px;"></div> 
+
 # Proje Amacı
 
 Özelders veren bir öğretmen ve kurumun daha fazla kitleye hitap
 edebilmesi kendini tanıtabilmesi ve öğrenci ile velilerin kurumla ilgili akıllarında oluşan sorulara
 cevap bulabileceği bir tasarım tasarlamak.
 
-
+---
 
 ## TEMA RESİMLERİ
 
