@@ -17,7 +17,7 @@ cevap bulabileceği bir tasarım tasarlamak.
 
 ## TEMA RESİMLERİ
 
- 
+ <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
 
 ```bash
  <a href="https://github.com/Umut-jpg/OzelDersWebTasarim-2018-/blob/main/Tema%20Resimleri.pdf">Tema Resimleri </a>
